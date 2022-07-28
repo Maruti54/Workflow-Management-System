@@ -214,7 +214,7 @@ int main()
 		SetColor(14);
         int choice;
         cout<<"***********************************************************************\n\n\n";
-        cout<<"                      Welcome to login page                               \n\n";
+        cout<<"                      Welcome to the login page                               \n\n";
         cout<<"*******************        MENU        *******************************\n\n";
         cout<<"1.LOGIN"<<endl;
         cout<<"2.REGISTER"<<endl;
